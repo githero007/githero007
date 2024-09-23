@@ -18,7 +18,7 @@
 - JavaScript, React, or Node.js projects
 
 ## 📫 How to reach me:
-- aayush69n@gmail.vom
+- aayush69n@gmail.com
 
 ## 😄 Pronouns:
 -he-hm
